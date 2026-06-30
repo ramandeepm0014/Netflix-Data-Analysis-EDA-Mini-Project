@@ -6,7 +6,6 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) of the Net
 
 The project demonstrates the complete data analysis workflow, including data preprocessing, visualization, Excel dashboard creation, and automated report generation.
 
----
 
 ## 🎯 Objectives
 
@@ -215,10 +214,3 @@ Through this project, I learned:
 
 **Ramandeep Kaur**
 
-Bachelor of Technology (B.Tech)
-
-Chandigarh Engineering College, Jhanjeri
-
----
-
-## ⭐ If you found this project helpful, consider giving it a Star!
