@@ -17,7 +17,6 @@ The project demonstrates the complete data analysis workflow, including data pre
 - Build an interactive Excel Dashboard.
 - Generate an automated PDF report.
 
----
 
 ## 📂 Project Structure
 
@@ -55,7 +54,6 @@ Netflix EDA Project/
     └── 17_top_10_directors.png
 ```
 
----
 
 ## 📊 Dataset Information
 
@@ -78,7 +76,6 @@ The dataset contains information about Netflix titles, including:
 - Genre
 - Description
 
----
 
 ## 🧹 Data Cleaning
 
@@ -92,7 +89,6 @@ The following preprocessing steps were performed:
 - Extracted movie duration and TV show seasons.
 - Prepared the dataset for visualization.
 
----
 
 ## 📈 Exploratory Data Analysis
 
@@ -113,7 +109,6 @@ The project includes various visualizations such as:
 - Bar Charts
 - Boxplots
 
----
 
 ## 📊 Excel Dashboard
 
@@ -128,7 +123,6 @@ A professional Excel dashboard was created using:
 
 The dashboard provides interactive insights into Netflix content across multiple categories.
 
----
 
 ## 💻 Technologies Used
 
@@ -141,7 +135,6 @@ The dashboard provides interactive insights into Netflix content across multiple
 - Pivot Charts
 - ReportLab
 
----
 
 ## 📌 Key Insights
 
@@ -152,7 +145,6 @@ The dashboard provides interactive insights into Netflix content across multiple
 - Drama and International Movies are among the most popular genres.
 - Most movies have a medium duration suitable for general audiences.
 
----
 
 ## 🚀 How to Run
 
@@ -174,7 +166,6 @@ pip install -r requirements.txt
 python report.py
 ```
 
----
 
 ## 📷 Project Features
 
@@ -194,7 +185,6 @@ python report.py
 
 ✔ Well-Structured Project
 
----
 
 ## 📚 Learning Outcomes
 
