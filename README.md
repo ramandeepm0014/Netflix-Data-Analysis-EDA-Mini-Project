@@ -202,5 +202,5 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-**Ramandeep Kaur**
+*Ramandeep Kaur*
 
